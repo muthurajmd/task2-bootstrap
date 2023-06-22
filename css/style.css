@@ -1,0 +1,50 @@
+*{
+	margin:0px;
+	padding:0;
+	box-sizing:border-box;
+}
+.img1{
+	position:relative;
+	left: 20%;
+}
+.img1 img{
+	width:85%;
+}
+.img4{
+	position:absolute;
+	top: 31%;
+    right: 28%;
+}
+
+.img4 img{
+	width:50%;
+	/* height:70px; */
+}
+.jjj{
+	color:red!important;
+}
+.img2{
+	position:absolute;
+	top: 51%;
+    right: 5%;
+    left: -21%;
+
+}
+
+.img2 img{
+	width:54%;
+	/* height:300px; */
+}
+
+.img3 {
+	position:absolute;
+	top: 33%;
+	left: -24%;
+    /* right: 421px; */
+
+}
+
+.img3 img{
+	width:54%;
+	/* height:40px; */
+}
